@@ -1,0 +1,49 @@
+body
+{
+	background: white;
+}
+
+h1 {
+	color: #ff006a;
+}
+
+h3, label {
+	color: yellow;
+}
+
+input {
+	color:#001aff
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(55, 236, 0);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+color: #ff006a;
+border-radius: 10px;
+border-top: 10px solid #ffc400;
+padding: 10px;
+float: none;
+text-align: left;
+}

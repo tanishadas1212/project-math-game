@@ -1,18 +1,18 @@
 body
 {
-	background: white;
+	background-image: linear-gradient(to top, #4fb576 0%, #44c489 30%, #28a9ae 46%, #28a2b7 59%, #4c7788 71%, #6c4f63 86%, #432c39 100%);
 }
 
 h1 {
-	color: #ff006a;
+	color: #ff0062;
 }
 
-h3, label {
+ label {
 	color: yellow;
 }
 
-input {
-	color:#001aff
+h3, input {
+	color:#ffe600
 }
 
 	.login_div1 , .login_div2
